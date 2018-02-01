@@ -1,0 +1,13 @@
+package exam02;
+
+public class Averager extends Summer {
+	
+	public Averager(double[] array) {
+		super(array);
+	}
+	
+	@Override
+	public double measure() {
+		return super.measure() / super.value();
+	}
+}

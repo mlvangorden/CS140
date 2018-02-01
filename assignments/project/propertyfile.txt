@@ -1,0 +1,4 @@
+#File locations
+#Mon Dec 11 12:09:43 EST 2017
+ExecutableDirectory=/Users/mlvangorden/Desktop/assignments/project/
+SourceDirectory=/Users/mlvangorden/Desktop/assignments/project/
